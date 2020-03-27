@@ -12,7 +12,7 @@ Berte však ohled na soukromí ostatních. Váš záznam může jinému ublíži
 
 Kdo je chytrej, používá COVIDník - „Hloupou karanténu“, kdo je hloupej, ať použije státní „Chytrou karanténu.“
 
-Vytiskněte si přiložené šablony pro Microsoft Word.tm nebo zapisujte do tabulky v Excelu.tm. K jejich otevření můžete samozřejmě použít zdarma dostupné nástroje [LibreOffice](https://cs.libreoffice.org/download/download/), či [OpenOffice](http://www.openoffice.org/cs/download/index.html).
+Vytiskněte si přiložené šablony pro Microsoft Word&trade; nebo zapisujte do tabulky v Excelu&trade;. K jejich otevření můžete samozřejmě použít zdarma dostupné nástroje [LibreOffice](https://cs.libreoffice.org/download/download/), či [OpenOffice](http://www.openoffice.org/cs/download/index.html).
 
 - [COVIDník A4](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A4.docx) pro tisk
 - [COVIDník A5](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A5.docx) pro tisk
