@@ -10,9 +10,13 @@ Osobní zodpovědností a důsledností může každý z nás přispět k neší
 
 Berte však ohled na soukromí ostatních. Váš záznam může jinému ublížit. Určitě záznamy nesdílejte online, nesynchronizujte a nezálohujte do cloudu, nepoužívejte Microsoft Office 365, Google Docs a podobné. Bylo by to v rozporu s dobrými mravy i GDPR.
 
+Kdo je chytrej, používá COVIDník - „Hloupou karanténu“, kdo je hloupej, ať použije státní „Chytrou karanténu.“
+
 Vytiskněte si přiložené šablony pro Microsoft Word.tm nebo zapisujte do tabulky v Excelu.tm. K jejich otevření můžete samozřejmě použít zdarma dostupné nástroje [LibreOffice](https://cs.libreoffice.org/download/download/), či [OpenOffice](http://www.openoffice.org/cs/download/index.html).
 
-Kdo je chytrej, používá COVIDník - „Hloupou karanténu“, kdo je hloupej, ať použije státní „Chytrou karanténu.“
+- [COVIDník A4](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A4.docx) pro tisk
+- [COVIDník A5](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A5.docx) pro tisk
+- COVIDník tabulka pro elektronickou práci - připravuje se
 
 ## Návod k použití COVIDníku
 
@@ -39,5 +43,17 @@ Návrh na COVIDník státní orgány obdrželi 23. 3. 2020, ale asi jim někde z
 Jako občané jsme zodpovědní, samostatní a chceme být svobodní. Nechceme dohled Velkého bratra. Také proto, že ho nepotřebujeme. Nenecháme sledovat svůj pohyb mobilními telefony a operátory, platebními kartami, jak nám to po dvaceti letech stát a firmy konečně přiznaly.
 
 Soukromí je podmínkou pro to jednat podle vlastního svědomí, nejen plnit nařízení či očekávání jiných. Je to nevyhnutná podmínka osobní svobody, volnosti projevů osobní povahy a inovací. Soukromí nepotřebuje jen ten, kdo nemá co ztratit - život, zdraví, lásku, rodinu, svobodu, majetek, znalosti, ani věci čistě sentimentální hodnoty. Před prolamováním osobní svobody ať se radši prolomí dříve právo na firemní patenty, licence a know-how, potom právo na majetek právnických, potom i fyzický osob. Psychologie i teologie učí, že bez svobody není možná ani láska ke druhému.
+
+## Pomozte
+
+Hledám dobrovolníky, co by připravili mobilní aplikaci pro toto použití. Sám mobilní apky nedělám.
+
+Náčrt specifikace:
+- K.I.S.S GUI s dobrým UX/HCI
+- šifrované uložení dat - asi sqlite+encryption)
+- připomínky - časové nebo například nějakou dobu po ukončení pohybu GPS
+- synchronizace dat volitelná na zvolené uložiště - třeba jako má [Joplin.app](https://github.com/laurent22/joplin)
+- minimum vyžadovaných práv v OS (žádná kamera atd.)
+- volitelně použitelné kontakty, kalendář, GPS, připomínky, síťově připojení jen pro synchronizaci dat - nikam jinam!
 
 ## Do and share!
