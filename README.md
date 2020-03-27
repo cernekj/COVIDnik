@@ -10,7 +10,9 @@ Osobní zodpovědností a důsledností může každý z nás přispět k neší
 
 Berte však ohled na soukromí ostatních. Váš záznam může jinému ublížit. Určitě záznamy nesdílejte online, nesynchronizujte a nezálohujte do cloudu, nepoužívejte Microsoft Office 365, Google Docs a podobné. Bylo by to v rozporu s dobrými mravy i GDPR.
 
-Vytiskněte si přiložené šablony pro Microsoft Word(TM) nebo zapisujte do tabulky v Excelu(TM). K jejich otevření můžete samozřejmě použít zdarma dostupné nástroje [LibreOffice](https://cs.libreoffice.org/download/download/), či [OpenOffice](http://www.openoffice.org/cs/download/index.html).
+Vytiskněte si přiložené šablony pro Microsoft Word.tm nebo zapisujte do tabulky v Excelu.tm. K jejich otevření můžete samozřejmě použít zdarma dostupné nástroje [LibreOffice](https://cs.libreoffice.org/download/download/), či [OpenOffice](http://www.openoffice.org/cs/download/index.html).
+
+Kdo je chytrej, používá COVIDník - „Hloupou karanténu“, kdo je hloupej, ať použije státní „Chytrou karanténu.“
 
 ## Návod k použití COVIDníku
 
