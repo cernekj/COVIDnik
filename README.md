@@ -8,7 +8,7 @@ Osobní zodpovědností a důsledností může každý z nás přispět k neší
 
 **Zapisujte si jak chcete, kam chcete. Na volný papír, do diáře, kalendáře, poznámek v mobilu.**
 
-Berte však ohled na soukromí ostatních. Váš záznam může jinému ublížit. Určitě záznamy nesdílejte online, nesynchronizujte a nezálohujte do cloudu, nepoužívejte Microsoft Office 365, Google Docs a podobné. Bylo by to v rozporu s dobrými mravy i GDPR.
+Berte však ohled na soukromí ostatních. Váš záznam může jinému ublížit. Určitě záznamy nesdílejte online, nesynchronizujte a nezálohujte do cloudu, nepoužívejte Microsoft Office 365&trade;, Google Docs&trade; a podobné. Bylo by to v rozporu s dobrými mravy i GDPR.
 
 Kdo je chytrej, používá COVIDník - „Hloupou karanténu“, kdo je hloupej, ať použije státní „Chytrou karanténu.“
 
