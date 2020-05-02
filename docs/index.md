@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # COVIDník
 
 jednoduchý nástroj na boj s nemocí **COVID**-19 - de**ník** setkání
@@ -14,11 +18,12 @@ Kdo je chytrej, používá COVIDník - „Hloupou karanténu“, kdo je hloupej,
 
 Vytiskněte si přiložené šablony PDF nebo DOCX, nebo si zapisujte do tabulky.
 
+
 **Šablony ke stažení:**
 
 |  pro tisk | pro tisk | tabulka pro elektronickou práci |
 |:-------------:|:------------------:|:--:|
-| [ ![COVIDník A4.pdf](doc/assets/images/COVIDnik_A4.png)](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A4.pdf)<br>[COVIDník A4.pdf](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A4.pdf)<br>[COVIDník A4.docx](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A4.docx) | [ ![COVIDník A5.pdf](doc/assets/images/COVIDnik_A5.png)](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.pdf)<br>[COVIDník A5.pdf](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.pdf)<br>[COVIDník A5.docx](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.docx)  | [ ![COVIDník.xlsx](doc/assets/images/COVIDnik_xlsx.png)](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik.xlsx)<br>[COVIDník.xlsx](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.pdf) |
+| [ ![COVIDník A4.pdf](assets/images/COVIDnik_A4.png)](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A4.pdf)<br>[COVIDník A4.pdf](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A4.pdf)<br>[COVIDník A4.docx](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A4.docx) | [ ![COVIDník A5.pdf](assets/images/COVIDnik_A5.png)](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.pdf)<br>[COVIDník A5.pdf](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.pdf)<br>[COVIDník A5.docx](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.docx)  | [ ![COVIDník.xlsx](assets/images/COVIDnik_xlsx.png)](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik.xlsx)<br>[COVIDník.xlsx](https://github.com/cernekj/COVIDnik/raw/master/COVIDnik_A5.pdf) |
 
 ## Návod k použití COVIDníku
 
